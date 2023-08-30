@@ -1,0 +1,25 @@
+.header {
+  width: 100%;
+  cursor: pointer;
+  position: fixed;
+  padding-bottom: 10px;
+  box-shadow: 0px 1px 5px grey;
+  color: white;
+  z-index: 100;
+}
+
+.appbar{
+  width: 100%;
+  cursor: pointer;
+  position: fixed;
+  padding-bottom: 10px;
+  box-shadow: 0px 1px 5px grey;
+  background-color: rgb(59, 49, 49);
+}
+
+@media (max-width: 1000px) {
+  .header {
+    padding-top: 15px;
+    font-size: 6.4vw;
+  }
+}
