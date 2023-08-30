@@ -3,6 +3,7 @@
 # dependencies
 /react-entertainment-hub/node_modules
 /express-entertainment-hub/node_modules
+/express-entertainment-hub/serviceAccountKey.json
 /.pnp
 .pnp.js
 
